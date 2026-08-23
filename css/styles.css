@@ -1,5 +1,6 @@
-
-
+/*
+COMMON: The following styling effects are common to all of the webpages within the website.
+*/
 body {
     background-color: lightgray;
 }
@@ -39,11 +40,34 @@ body {
     color: navy;
 }
 
-.table-links, tr, td{
-    border: 2px solid navy;
+.page-topic {
+    font-family: sans-serif;
+    text-align: center;
+    color: navy;
 }
 
 .page-footer {
     text-align: center;
     color: navy;
 }
+
+/*
+HOMEPAGE: These styling effects apply to the home page.
+*/
+.table-links, tr, td{
+    border: 2px solid navy;
+}
+
+/*
+ABOUT ME: These styling effects apply to the About Me page.
+*/
+
+
+/*
+EXPERIENCE: These styling effects apply to the Experience page.
+*/
+
+
+/*
+PROJECTS: These styling effects apply to the Projects page.
+*/
